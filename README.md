@@ -1,7 +1,7 @@
 # Basketball-Motion
 Learning the basics of motion tracking using roboflow 
 
-4 Classes (Player, Ball, Rim, Ball in Basket)
+3 Classes (Player, Ball, Rim)
 
 ![IMG_4606](https://github.com/user-attachments/assets/ae0379ab-6ac8-4922-b6ce-19b9648f74a0)
 ![IMG_4608](https://github.com/user-attachments/assets/c12994d0-791d-41ab-974c-2cb8f3ff6461)
