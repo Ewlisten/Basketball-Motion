@@ -2,9 +2,9 @@
 Learning the basics of motion tracking using roboflow, basketball, and computer vision. 
 3 Classes (Player, Ball, Rim)
 
+<img width="800" height="368" alt="Cade3ptrOVERLAYgif" src="https://github.com/user-attachments/assets/56f0fb2b-777f-431e-ad92-ca78154228e4" />
 
-![Wemby_StpBK](https://github.com/Ewlisten/Basketball-Motion/blob/main/Wemby_StpBK.gif)
-![Wemby Dunk](Wemby_DUNK.gif)
+
 
 Shot made or miss feature
 Play Recognition: In Progress
