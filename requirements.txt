@@ -1,4 +1,0 @@
-roboflow
-ultralytics
-numpy
-pytest
