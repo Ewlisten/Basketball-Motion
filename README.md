@@ -6,5 +6,7 @@ Learning the basics of motion tracking using roboflow, basketball, and computer 
 
 
 
+
 Shot made or miss feature
+Team Discernment: In Progress
 Play Recognition: In Progress
